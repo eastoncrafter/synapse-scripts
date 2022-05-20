@@ -1,3 +1,5 @@
+**This repository has been migrated to https://github.com/eastoncrafter/scripts/
+
 A collection of scripts to install synapse
 
 Order of scripts to run (first to last)
